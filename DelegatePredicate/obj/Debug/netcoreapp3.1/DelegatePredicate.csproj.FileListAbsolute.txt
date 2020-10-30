@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.exe
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.deps.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.dll
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\bin\Debug\netcoreapp3.1\DelegatePredicate.pdb
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.dll
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.pdb
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegatePredicate\DelegatePredicate\obj\Debug\netcoreapp3.1\DelegatePredicate.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DelegatePredicate/1.0.0": {
+        "runtime": {
+          "DelegatePredicate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegatePredicate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
